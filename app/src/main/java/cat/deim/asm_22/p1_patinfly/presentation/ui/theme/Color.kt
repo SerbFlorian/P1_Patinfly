@@ -1,4 +1,4 @@
-package cat.deim.asm_22.p1_patinfly.ui.theme
+package cat.deim.asm_22.p1_patinfly.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
