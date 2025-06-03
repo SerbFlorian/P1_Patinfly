@@ -480,6 +480,7 @@ private fun SectionTitle() {
         textAlign = TextAlign.Start
     )
 }
+
 /**
  * Composable que muestra una categoría de bicicleta en una sección de categorías.
  *
